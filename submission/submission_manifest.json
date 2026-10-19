@@ -1,0 +1,19 @@
+{
+  "candidate": "brandon.lopez4860@gmail.com",
+  "candidate_name": "Brandon Percy Lopez Mauricio",
+  "models_and_tools": [
+    {
+      "tool": "Gemini",
+      "model": "Gemini 1.5 Pro"
+    }
+  ],
+  "evaluated_file": "candidate_strategy.py",
+  "generated_artifacts": [
+    ".gitkeep"
+  ],
+  "conversation_files": [
+    "ai_conversations/chat_gemini.txt"
+  ],
+  "redactions": [],
+  "declaration": "Declaro que he revisado, comprendo y soy el autor responsable de la solucion entregada."
+}
